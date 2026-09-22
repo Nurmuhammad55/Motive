@@ -300,5 +300,6 @@ app.listen(PORT, () => {
   console.log(`✅ Server ${PORT}-portda ishga tushdi`);
   console.log(`Motive webhook URL: POST http://<domeningiz>:${PORT}/webhook/motive?secret=${MOTIVE_WEBHOOK_SECRET}`);
 });
+
 _SECRET}`);
 });
