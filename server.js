@@ -1,6 +1,6 @@
 const express = require('express');
 const fetch = require('node-fetch');
-const TELEGRAM_BOT_TOKEN = '8003183519:AAFn48FqRHV5zunKZNyJizU43An0jtgoy4g';
+const TELEGRAM_BOT_TOKEN = '8003183519:AAFqa7q9XiR0c6iAVvTPM8XwI7WNJr0BFDU';
 const TELEGRAM_CHAT_ID = '8159788176';
 const MOTIVE_WEBHOOK_SECRET = 'Jojo';
 
